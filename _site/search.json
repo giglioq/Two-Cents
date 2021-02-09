@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Quinten's thoughts about life the universe and everything. Ideas in development, not for commercial use. ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-08T09:37:02-06:00"
+      "last_modified": "2021-02-08T20:26:01-06:00"
     },
     {
       "path": "index.html",
       "title": "Two Cents",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-08T09:37:03-06:00"
+      "last_modified": "2021-02-08T20:24:24-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
