@@ -1,0 +1,60 @@
+---
+title: "The Call for a Global Climate Hegemon"
+description: |
+  The claim that modest ambitions could enhance climate action fails to address the central issue: the current international climate change regime is failing and nothing short of a total reimagination provides any modicum of hope.
+author:
+  - name: Quinten Giglio
+    url: {}
+date: 02-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+### Midterm Essay
+
+# The Call for a Global Climate Hegemon
+
+Quinten Giglio
+
+Govt 270
+
+Professor Brozek
+
+Lawrence University
+
+Winter 2021
+
+In the current climate change regime we are stuck balancing efficacy with compliance.  Under the Paris Agreement, which was whittled away to secure the climate-action-renegade United States, there exists no firm accountability, nor ambition. The claim that modest ambitions could enhance climate action fails to address the central issue: the current international climate change regime is failing and nothing short of a total reimagination provides any modicum of hope.
+
+The argument *for* soft treaties is that they can encourage and increase compliance. When agreeing to the terms of a climate regime, perceived fairness is paramount. Often states have"...rejected the idea that they should accept binding emissions reduction commitments based on the principle of common but differentiated responsibilities." (Betsill) The Nationally Determined Contribution (NDC) framework of the Paris Agreement promotes participation because each state is allowed to determine what is "fair" for them. 
+
+Unfortunately, the soft treaty approach is plagued by what Jen Iris Allen calls dangerous incrementalism. Modest ambitions will not be enough because they achieve little to make progress. This takes place in the form of "repackaging existing rules" and "conferring legitimacy" (Allen).  Reusing old rules under a new convention provides the illusion of progress, especially when more states are able to comply because there are fewer binding agreements. However this progress remains a veil of optimism considering that according to the IPCC report "Pathways reflecting these ambitions would not limit global warming to 1.5°C" (IPCC). Additionally, the proposed pathways that are adopted successfully often succeed "by departing so little from the business as usual models". (O'Neill) Another example of repackaged rules. 
+
+The fallacy of soft treaties and non-binding ambitions is also seen in  Noah Sachs breakdown scenario. The constant repackaging of old ideas with modest goals can, and is currently, leading to regime stagnation. The lack of a global hegemon and system of enforcement gives countries leeway to submit marginal or lessened ambitions should domestic economic needs arise (spoiler alert: there always do). Sachs fears that in the current soft treaty of the Paris Agreement, states will start "lowballing their pledges" to avoid economic risks. States backsliding and lessening mitigation is made possible by the softness of the Paris Agreement and is leads directly to its inefficacy. 
+
+Because of dangerous incrementalism and regime breakdown, playing the balancing game between soft and hard climate agreements will only get us so far. As the fallacy of the Paris Agreement can easily be observed not just in the shadows of conspiracy but even in light of the IPCC report, for real, meaningful change to occur we need an entirely new system. In "The Case for Climate Rage", Amy Westervelt calls this imagination, calling out the current regime saying "the same patriarchal elites have remained comfortably in power for so long that their imaginations are unequal to the task we face." Let the call for a new imagination ring out here too. 
+
+
+
+#### Sources:
+
+O'niell - Impacts and Effectiveness of Environmental Treaty Regimes
+
+Betsill - International Climate Change Policy
+
+IPCC - 2018 Summary for Policymakers
+
+Sachs - The Paris Agreement in the 2020s: Breakdown or Breakup?
+
+Allen -  Dangerous Incrementalism of the Paris Agreement
+
+Westervelt - The Case for Climate Rage
+
+
+
+

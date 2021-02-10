@@ -21,4 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+Blog started: 02/08/2021
+Lawrence University, Appleton WI
