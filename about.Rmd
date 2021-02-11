@@ -3,6 +3,10 @@ title: "About this blog"
 description: |
   Quinten's thoughts about life the universe and everything. Ideas in development, not for commercial use. 
 ---
+![](grief.jpeg){width=35%}
+
+This site is one part a development and coding project, one part a journal of my thoughts and one part a mystery even to me. My hope is that I capture some part of what it means to be Quinten Giglio and this blog is a practice and ritual of growth and expression. 
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

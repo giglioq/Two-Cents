@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Quinten's thoughts about life the universe and everything. Ideas in development, not for commercial use. ",
       "author": [],
-      "contents": "\r\nSite Colors\r\n\r\n\r\n",
-      "last_modified": "2021-02-10T15:11:39-06:00"
+      "contents": "\r\n\r\nThis site is one part a development and coding project, one part a journal of my thoughts and one part a mystery even to me. My hope is that I capture some part of what it means to be Quinten Giglio and this blog is a practice and ritual of growth and expression.\r\nSite Colors\r\n\r\n\r\n",
+      "last_modified": "2021-02-10T22:56:44-06:00"
     },
     {
       "path": "index.html",
       "title": "Two Cents",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-10T15:11:40-06:00"
+      "last_modified": "2021-02-10T22:53:56-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
